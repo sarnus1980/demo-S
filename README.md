@@ -1,7 +1,1 @@
-abc
-
-67
-
-Japan
-id
-taiwain is the best
+911 - 1 kill = 910
