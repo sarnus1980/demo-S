@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="pl-PL">
-  <title>TEST</title>
   <head>
-    
+    <title>TEST</title>
   </head>
   <body>
 
