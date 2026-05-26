@@ -4,3 +4,4 @@ abc
 
 Japan
 id
+ chinese rulez
